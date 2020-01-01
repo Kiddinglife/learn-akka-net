@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-akka-net", "learn-akka-net\learn-akka-net.csproj", "{4806FB39-99C4-4059-BD72-93FAC0AC07FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4806FB39-99C4-4059-BD72-93FAC0AC07FC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4806FB39-99C4-4059-BD72-93FAC0AC07FC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4806FB39-99C4-4059-BD72-93FAC0AC07FC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4806FB39-99C4-4059-BD72-93FAC0AC07FC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
